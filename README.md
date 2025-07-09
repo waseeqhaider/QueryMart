@@ -6,10 +6,6 @@
 
 <p align="center"><b>Natural Language Data Mart using Northwind + LLMs</b></p>
 
-# QueryMart
-
-**Natural Language Data Mart Project using Northwind + LLMs**
-
 ---
 
 ## 🚀 Project Highlights
