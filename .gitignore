@@ -1,0 +1,29 @@
+# Python virtual environments
+venv/
+venv-querymart/
+
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.egg
+
+# Environment variables
+.env
+
+# Logs and local debug files
+*.log
+*.sqlite3
+.DS_Store
+
+# Jupyter and notebooks (optional)
+.ipynb_checkpoints/
+
+# VSCode and PyCharm configs (optional)
+.vscode/
+.idea/
+
+# dbt artifacts
+dbt_project/target/
+dbt_project/dbt_modules/
+dbt_project/logs/
